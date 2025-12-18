@@ -77,6 +77,4 @@ This work showcases skills in requirements thinking, stakeholder communication, 
 
 ---
 
-**Course**: CMPT 475/982 – Requirements Elicitation  
-**Author**: Sparsh Singh  
-**Completion Date**: [Add your completion date]
+**Author**: Sparsh Sharma
